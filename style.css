@@ -159,7 +159,8 @@ aside ul{
     margin-bottom: 1rem;
 }
   
-  .flip-card-back {    
+  .flip-card-back {   
+    background-color:#9bbfab;    
     color: white;
     transform: rotateY(180deg);
     z-index: 1;
